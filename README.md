@@ -2,5 +2,5 @@ I am a fourth year PhD student in Information Systems at the [Heinz College](htt
 
 Methodologically, I develop scalable machine-learning methods that operate on data with complex structure, such as networks and text. Substantively, I use such methods to examine causal questions pertaining to persuasion and its linguistic determinants.
 
-   * Website: emaadmanzoor.com
+   * Website: [emaadmanzoor.com](http://emaadmanzoor.com)
    * Email: emaad@cmu.edu
