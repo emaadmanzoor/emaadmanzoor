@@ -13,7 +13,7 @@ at Johnson. I have also taught a PhD seminar on human-algorithm
 interactions ([syllabus](/teaching/NRE5220_F24_Syllabus.pdf)).
 See [here](/teaching/) for my other teaching.
 
-I am currently building [stoppingagents](https://stoppingagents.com/), [haggleforme.computer](https://haggleforme.computer) and [blprs](https://emaadmanzoor.com/blprs/).
+I am currently building [stoppingagents](https://stoppingagents.com/), [haggleforme.computer](https://haggleforme.computer), and [blprs](https://emaadmanzoor.com/blprs/).
 I have previously built [arborist](https://cmuarborist.github.io/), [xstream](https://cmuxstream.github.io), and [streamspot](https://sbustreamspot.github.io).
 
 I co-organize the [Virtual Quant Marketing Seminar](https://sites.google.com/view/vquantmarketing/virtual-quant-marketing-seminar) and serve on the editorial board of [Marketing Science](https://pubsonline.informs.org/page/mksc/editorial-board).
